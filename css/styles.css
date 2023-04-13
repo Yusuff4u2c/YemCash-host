@@ -127,7 +127,7 @@ padding: 0.5rem 1.5rem;
     margin-right: 2rem;
 }
 .list--tick {
-    list-style-image: url(../images/tick.svg);
+    list-style-image: url(../resources/images/tick.svg);
     padding-left: 3rem;
     color: var(--header-color);
 }.list--tick .list__item {
